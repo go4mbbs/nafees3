@@ -1,0 +1,180 @@
+/*********** FONT FILES WILL BE CHANGEGED *****************/
+@font-face { 
+    font-family: 'Nafees'; 
+    src: url('https://cdn.jsdelivr.net/gh/waqaraq/nafees@master/nafees-nastaleeq-webfont.eot'); 
+    src: url('https://cdn.jsdelivr.net/gh/waqaraq/nafees@master/nafees-nastaleeq-webfont.eot?#iefix') format('embedded-opentype'), 
+         url('https://cdn.jsdelivr.net/gh/waqaraq/nafees@master/nafees-nastaleeq-webfont.woff') format('woff'), 
+         url('https://cdn.jsdelivr.net/gh/waqaraq/nafees@master/nafees-nastaleeq-webfont.ttf') format('truetype'), 
+         url('https://cdn.jsdelivr.net/gh/waqaraq/nafees@master/nafees-nastaleeq-webfont.svg') format('svg'); 
+    font-weight: normal; 
+    font-style: normal; 
+ line-height: 2; 
+} 
+/** Global Styles **/
+body{ 
+    font-family: 'Jameel Noori Nastaleeq','Nafees'; 
+    font-size:12px; 
+    line-height:12px; 
+      
+    } 
+h1, h2, h3, h4, h5,p,a,span,.meta .date{ 
+    font-family: 'Jameel Noori Nastaleeq','Nafees';  
+} 
+  
+    #tp_archive .date { font-family: 'Jameel Noori Nastaleeq','Nafees';  } 
+h1{font-size: 18px; line-height: 35px; } 
+h2{ font-size: 17px; line-height: 35px;} 
+  
+  
+.category .main .story h3 { 
+                            font-size: 25px;  
+                            line-height: 35px; 
+} 
+.category .main .story p { 
+                            font-size: 14px; line-height: 25px } 
+.narrow .category .main .story h1  { font-size: 14px; 
+                            line-height: 25px; } 
+.narrow .category .listing .story h2  { font-size: 14px; 
+                            line-height: 25px; } 
+  
+  
+/*h3{font-size:14px; }*/
+/*h4{font-size:14px; }  Used for section Titles */
+/*h5{font-size:14px; } */
+  
+  
+  
+span.date { font-size: 14px; 
+            line-height: 25px; } 
+.story p { font-size: 14px; } 
+    /** FONT SIZE VARIATION **/
+    /** Headline news **/
+    .headline h1 a  {  
+                        font-size: 19px;} 
+      
+    .date .current {  
+                            font-size: 14px; padding-right: 10px; padding-left: 10px } 
+      
+    .meta .box_comment a {  
+                            font-size: 14px; } 
+      
+    .headline p {  
+                    font-size: 14px; } 
+      
+      
+    /** Top News **/
+    a.more_story span { font-size: 20px;} 
+    .top_news .main_title h4{ font-size: 20px;} 
+      
+    .top_news_list .comment{    font-family:Arial, Helvetica, sans-serif; font-size:11px;} 
+      
+    .top_news_list .title h2 a {  
+                                    font-size: 14px; line-height: 25px; } 
+    .top_news_list .meta .date{ font-size:13px; line-height:0px;} 
+      
+    #opinion_top_news .top_news_list .meta .date { font-size: 14px; } 
+      
+    /** Top News **/
+    .category h4 a { font-size: 20px; } 
+  
+      
+      
+    /** cartoon Title **/
+    .widget_cartoon h4 a{ font-size: 20px; } 
+  
+    /** Opinion and Recommended Widget  **/
+    /** Picture Gallery Title **/
+    .picture_gallery_title h1 span{ font-size: 20px; } 
+      
+      
+  
+    /** Opinion and Recommended Widget  **/
+    .full_data .story h3 {  
+                            font-size: 16px;  
+                            line-height: 28px; } 
+      
+      
+    #author_side_bar .full_data .story h3 {  
+                            font-size: 16px;  
+                            line-height: 28px;  
+                            direction: rtl;  
+                            padding-bottom: 10px; 
+                            padding-right: 10px; } 
+        #author_side_bar .full_data .story .meta { padding-bottom: 7px;  }   
+          
+        .full_data .story .meta .author { padding: 0px!important; } 
+        .full_data .story .meta .author a { font-size: 16px!important; } 
+        #tabs-1 .full_data .story .meta { padding: 5px; } 
+        #tabs-2 .full_data .story .meta { padding: 5px; } 
+        #tabs-3 .full_data .story .meta { padding: 5px; } 
+      
+    .listdata ul li a{ font-size: 16px; line-height: 28px;  } 
+        #opinion_category_sidebar #widget_recomended { margin-top: 25px !important; } 
+      
+      
+      
+      
+      
+      
+      
+    /** Details Page **/
+    #category_recommended_news .listing .titlehome {  
+                                                    font-size: 15px; 
+                                                    line-height: 25px; } 
+      
+/*  #details_news .category span.date { font-size: 19px; }*/
+    /** Todays Paper **/
+    #tp_archive ul.dropdown li.hover a { font-family: 'Jameel Noori Nastaleeq','Nafees'; } 
+    #tp_archive .forehead  h1 { line-height: 24px;  } 
+        .g235 { width: 280px; height: 45px; } 
+      
+    #lightbox-image-details-caption { font-size: 16px; line-height: 25px !important; }   
+    #tp_archive span.date {  
+                            color: #AA0000; 
+                            font-size: 16px; } 
+          
+      
+    #tp_archive ul.dropdown li a { font-family: Trebuchet MS; }  
+    #details_news .headline_author span { padding-top: 15px; padding-bottom: 15px; } 
+      
+    #event_gallery_details_news .category .main .title .left a { top: -6px!important; }  
+/*  #event_gallery_details_news .category .main .title .left div { top: 0px!important; } */
+      
+/*   .jcarousel-skin-tango ul li a { font-size: 20px; float: right;  }*/
+      
+      
+/* 
+h1{font-size:24px; } 
+h2{font-size:10px; } 
+h3{font-size:14px; } 
+h4{font-size:14px; }  Used for section Titles  
+h5{font-size:14px; }  
+p{font-size:16px; } 
+a{font-size:16px; } 
+  
+.meta span .date{ font-size:16px;   line-height: 1.5em;} 
+  
+* Logo Date * 
+#header .logo small{font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:11px;}     
+  
+#main_nav{font-size:120%;} 
+#secondary_nav{font-size:100%;} 
+  
+  
+* Headline * 
+  
+  
+* Headline * 
+.headline .title h1{} 
+.top_news .main_title h2{line-height:120%;} 
+.top_news_list h2{font-size:110%; line-height:140%;}*/
+  
+  
+  
+/*.meta .black, .meta .box_comment{font-family:Arial, Helvetica, sans-serif; font-size:11px; line-height:14px;}*/
+a.more_story{} 
+  
+  
+/** Footer **/
+#footer .foot_nav{ font-family: Trebuchet MS; font-size:14px;} 
+#footer .foot_nav p{ font-family: Trebuchet MS; font-size:12px;} 
